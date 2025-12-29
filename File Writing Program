@@ -1,0 +1,4 @@
+f = open("data.txt", "w")
+f.write("Welcome to AIML Python")
+f.close()
+print("Data Written")
